@@ -1,3 +1,5 @@
 # Build your say_hello method here
 
-def say_anything("Hello " + "!")
+def greeting
+  puts "hello ruby Programmer!"
+end
